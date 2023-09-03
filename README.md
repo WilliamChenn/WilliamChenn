@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**WilliamChenn/WilliamChenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is William, and I'm a computer science student at 🎓 Duke University 🎓. Here's some info about me!
 
-Here are some ideas to get you started:
+⚡ Work experience:
+- Software Developer Intern at NCSU Virtual and Augmented Reality Lab - Multithreaded Socket Programming [Raleigh, NC. Summer 2021]
+- Waiter and Sous Chef at Xiyue Ramen [Xiamen, CN. Summer 2023]
+- Staff Writer at Asian American News Network - published articles weekly [Raleigh, NC. Summer 2021 - Summer 2023]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+- Data Structures and Algorithms
+- Intro to Data Science
+
+📫 How to reach me: 
+williamchenn123@gmail.com
+www.linkedin.com/in/william-chen321
