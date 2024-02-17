@@ -9,9 +9,11 @@ My name is William, and I'm a computer science student at 🎓 Duke University �
 - Staff Writer at Asian American News Network - published articles weekly [Raleigh, NC. Summer 2021 - Summer 2023]
 
 
-🌱 I’m currently learning:
+🌱 Courses:
 - Data Structures and Algorithms
 - Intro to Data Science
+- Computer Architecture
+- Linear Algebra
 
 📫 How to reach me: 
 williamchenn123@gmail.com
