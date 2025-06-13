@@ -16,8 +16,6 @@
 💼 **Experience**
 
 - **Software Engineer Intern @ CipherOwl Inc.** *(Seattle, WA | May 2025 – Present)*  
-  - Migrating a blockchain metadata backend from DynamoDB to PostgreSQL  
-  - Designing Golang interfaces for ingestion and Cadence-based workflow compatibility
 
 - **Software Engineer Intern @ Duke University OIT** *(Durham, NC | Summer 2024)*  
   - Developed a full-stack Security Advisory Dashboard with React + Rails  
