@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm William Chen!
 
-🎓 I'm a Computer Science student at Duke University (Class of 2027), concentrating in Artificial Intelligence and Machine Learning. I'm passionate about building full-stack applications, exploring AI research, and contributing to open-source tech.
+🎓 I'm a Computer Science student at Duke University (Class of 2027), concentrating in Artificial Intelligence and Machine Learning.
 
 ---
 
